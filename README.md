@@ -1,4 +1,11 @@
-# Murder-investigation-case
+# 🔍 SQL Murder Mystery Investigation
+
+![SQL](https://img.shields.io/badge/SQL-Expert-blue)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-Advanced-green)
+![Mystery Solved](https://img.shields.io/badge/Mystery-Solved-brightgreen)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-success)
+
+---
 
 ## 🎯 О проекте
 Полное расследование убийства в SQL City с использованием базы данных преступлений. Проект демонстрирует продвинутые навыки SQL-анализа и аналитического мышления.
@@ -33,4 +40,4 @@
 
 ## 📁 Файлы проекта
 - `solution.sql` - полное решение с комментариями
-- `schema.md` - полная схема базы данных
+- `schema.md` - схема базы данных
